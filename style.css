@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background: #F7F7F7;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    
+}
+
+section{
+    padding: 20px;
+    border: 1px solid #ddd;
+    display: grid;
+    place-items: center;
+    background: white;
+}
+
+input[type="number"]{
+    max-width: 100%;
+    display: block;
+    padding: 8px 16px;
+    text-align: left;
+    width: 20rem;
+}
+
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="submit"]{
+    display: block;
+    margin-top: 32px;
+    padding: 16px 32px;
+    border: 1px solid blue;
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-size: 1.125rem;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: 'sans-serif';
+    
+
+}
+
+.resposta p{
+    font-size: 1.125rem;
+    font-weight: 500;
+    font-family: 'Georgia';
+    text-align: center;
+    color: red;
+    margin-top: 30px;
+}
+
+      
