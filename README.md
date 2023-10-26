@@ -10,3 +10,10 @@ O codigo realiza a conversão atraves de um metodo "POST"
     - Para converter de quilômetros para anos-luz, insira o valor em "Kilômetros" e clique no botão "Converter".
     - Para converter de anos-luz para quilômetros, insira o valor em "Anos-luz" e clique no botão "Converter".
 
+## Exemplos
+
+  
+
+     ![Alt text](https://github.com/Wando2/ConversorPhp/blob/da6c80060435cb90193c8ab8194ade2da6d9cdb6/Screenshot_100.png "Optional title")
+
+  
